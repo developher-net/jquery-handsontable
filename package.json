@@ -9,7 +9,7 @@
   "version": "0.9.19",
   "devDependencies": {
     "grunt": "~0.4.1",
-    "grunt-replace": "~0.4.4",
+    "grunt-replace": "~1.0.1",
     "grunt-contrib-clean": "~0.4.1",
     "grunt-contrib-concat": "~0.3.0",
     "grunt-contrib-watch": "~0.4.4",
